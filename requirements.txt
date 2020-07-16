@@ -1,2 +1,5 @@
 Flask>=1.0.0
 cloudant==2.13.0
+dash==1.13.4
+numpy==1.19.0
+pandas==1.0.5
